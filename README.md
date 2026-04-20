@@ -18,6 +18,7 @@ I'm a passionate **Web Developer** building beautiful and responsive websites. C
 ## 📫 How to Reach Me
 - 📧 Email: rajatsharma8087@gmail.com
 - 💼 GitHub: [@Rajatsharma0087](https://github.com/Rajatsharma0087)
+- 🐦 Twitter: [@Rajatsharma_87](https://x.com/Rajatsharma_87)
 
 ## 🌱 Currently Learning
 Mastering CSS3 and JavaScript to build interactive web experiences!
