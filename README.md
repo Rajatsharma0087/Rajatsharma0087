@@ -6,7 +6,8 @@ I'm a passionate **Web Developer** building beautiful and responsive websites. C
 ## 💻 Skills
 - ✅ HTML5
 - 🎨 CSS3 
-- ⚡ JavaScript 
+- ⚡ JavaScript
+- ⚛️ React(learning) 
 - 📱 Responsive Design
 - 🎯 SEO Optimization
 
