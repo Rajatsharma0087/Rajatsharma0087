@@ -72,6 +72,12 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub followers](https://img.shields.io/github/followers/Rajatsharma0087?style=for-the-badge&color=0891b2&labelColor=1c1917&label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/Rajatsharma0087?style=for-the-badge&color=0891b2&labelColor=1c1917&label=Total%20Stars)
+
+---
 
 ## 📫 Hire Me / Get In Touch
 
