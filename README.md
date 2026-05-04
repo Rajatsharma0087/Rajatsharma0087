@@ -61,12 +61,7 @@
 
 ## 📊 GitHub Activity
 
-## 📊 GitHub Activity
-
-![Rajat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajatsharma0087&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajatsharma0087&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
-
+![](https://raw.githubusercontent.com/Rajatsharma0087/Rajatsharma0087/output/github-contribution-grid-snake.svg)
 ---
 
 ## 📫 Hire Me / Get In Touch
