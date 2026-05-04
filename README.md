@@ -28,6 +28,8 @@
 > Pure vegetarian restaurant website with menu
 > and location information
 
+(screenshots/desktop-home.png)
+
 **[Live Demo](https://rajatsharma0087.github.io/green-delight-restaurant/)** • **[Code](https://github.com/Rajatsharma0087/green-delight-restaurant)**
 
 ---
@@ -35,6 +37,8 @@
 ### ☕ Coffee Shop Landing Page
 > Modern café website with smooth animations
 > and fully responsive design
+
+![Preview](./preview.png)
 
 **[Live Demo](https://rajatsharma0087.github.io/coffee-landing-page/)** • **[Code](https://github.com/Rajatsharma0087/coffee-landing-page)**
 
