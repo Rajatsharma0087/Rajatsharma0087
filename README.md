@@ -1,7 +1,13 @@
 # Rajat Sharma — Frontend Developer
 
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header&text=Rajat%20Sharma&fontSize=40&fontColor=ffffff&animation=fadeIn)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=667EEA&width=500&lines=Frontend+Developer;Building+Beautiful+Websites;Available+for+Freelance+Work;Based+in+Shimla%2C+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
+
 > Building fast, responsive websites for businesses
 > that want to grow online | Based in Shimla, India 🇮🇳
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Rajatsharma0087&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)
 
 ---
 
@@ -19,8 +25,8 @@
 ## 💼 Featured Projects
 
 ### 🍃 Green Delight Restaurant
-> Pure vegetarian restaurant website with menu,
-> reservation system and location information
+> Pure vegetarian restaurant website with menu
+> and location information
 
 **[Live Demo](https://rajatsharma0087.github.io/green-delight-restaurant/)** • **[Code](https://github.com/Rajatsharma0087/green-delight-restaurant)**
 
@@ -28,7 +34,7 @@
 
 ### ☕ Coffee Shop Landing Page
 > Modern café website with smooth animations
-> and responsive design
+> and fully responsive design
 
 **[Live Demo](https://rajatsharma0087.github.io/coffee-landing-page/)** • **[Code](https://github.com/Rajatsharma0087/coffee-landing-page)**
 
@@ -36,15 +42,15 @@
 
 ### 🌤️ Weather Dashboard
 > Real-time weather app using OpenWeather API
-> with React and search functionality
+> built with React and search functionality
 
 **[Live Demo](https://weather-dashboard-three-virid.vercel.app/)** • **[Code](https://github.com/Rajatsharma0087/weather-dashboard)**
 
 ---
 
 ### 🚀 SaaS Landing Page
-> Responsive landing page template for SaaS products
-> built with Tailwind CSS
+> Responsive landing page for SaaS products
+> built with Tailwind CSS and JavaScript
 
 **[Live Demo](https://rajatsharma0087.github.io/saasflow-landing/)** • **[Code](https://github.com/Rajatsharma0087/saasflow-landing)**
 
@@ -65,14 +71,14 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub followers](https://img.shields.io/github/followers/Rajatsharma0087?style=for-the-badge&color=0891b2&labelColor=1c1917&label=Followers)
-![GitHub stars](https://img.shields.io/github/stars/Rajatsharma0087?style=for-the-badge&color=0891b2&labelColor=1c1917&label=Total%20Stars)---
 
 ## 📫 Hire Me / Get In Touch
 
-💼 **Available for freelance projects**
-📧 rajatsharma8087@gmail.com
-🌐 [Portfolio](https://rajatsharma0087.github.io/-personal-portfolio/)
-🐦 [@Rajatsharma_87](https://twitter.com/Rajatsharma_87)
+💼 **Available for freelance projects**  
+📧 rajatsharma8087@gmail.com  
+🌐 [Portfolio](https://rajatsharma0087.github.io/-personal-portfolio/)  
+🐦 [@Rajatsharma_87](https://twitter.com/Rajatsharma_87)  
+
+*⚡ Response time: within 24 hours*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=80&section=footer)
