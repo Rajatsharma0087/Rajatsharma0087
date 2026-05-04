@@ -7,8 +7,6 @@
 > Building fast, responsive websites for businesses
 > that want to grow online | Based in Shimla, India 🇮🇳
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Rajatsharma0087&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)
-
 ---
 
 ## 🚀 What I Build
