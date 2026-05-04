@@ -38,7 +38,7 @@
 > Modern café website with smooth animations
 > and fully responsive design
 
-![Preview](./preview.png)
+![Preview](preview.png)
 
 **[Live Demo](https://rajatsharma0087.github.io/coffee-landing-page/)** • **[Code](https://github.com/Rajatsharma0087/coffee-landing-page)**
 
