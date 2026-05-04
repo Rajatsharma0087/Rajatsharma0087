@@ -71,10 +71,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+
 ## 📊 GitHub Stats
 
-![GitHub followers](https://img.shields.io/github/followers/Rajatsharma0087?style=for-the-badge&color=0891b2&labelColor=1c1917&label=Followers)
-![GitHub stars](https://img.shields.io/github/stars/Rajatsharma0087?style=for-the-badge&color=0891b2&labelColor=1c1917&label=Total%20Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=Rajatsharma0087&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)
+![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-9-0891b2?style=for-the-badge&labelColor=1c1917)
+![Available](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-brightgreen?style=for-the-badge&labelColor=1c1917)
 
 ---
 
