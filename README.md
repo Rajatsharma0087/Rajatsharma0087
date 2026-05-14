@@ -73,7 +73,7 @@
 ## 📊 GitHub Stats
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rajatsharma0087&color=0891b2&style=for-the-badge&label=PROFILE+VIEWS)
-![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-9-0891b2?style=for-the-badge&labelColor=1c1917)
+![Repos](https://img.shields.io/badge/PUBLIC%20REPOS-11-0891b2?style=for-the-badge&labelColor=1c1917)
 ![Available](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-brightgreen?style=for-the-badge&labelColor=1c1917)
 
 ---
